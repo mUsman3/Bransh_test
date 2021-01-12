@@ -1,1 +1,13 @@
-123
+git clone
+git add 
+git commit 
+git status
+git push
+git log
+git pull 
+git PR
+git fetch
+git brnach
+git checkout
+git merge
+
